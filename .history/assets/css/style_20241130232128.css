@@ -1,0 +1,45 @@
+/* assets/css/style.css */
+.table img {
+    max-width: 50px;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.alert {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    margin-right: 0.5rem;
+}
+
+.btn:last-child {
+    margin-right: 0;
+}
+
+.modal-footer {
+    border-top: 1px solid #dee2e6;
+    padding: 1rem;
+}
+
+.img-preview {
+    max-width: 200px;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+    .table-responsive {
+        overflow-x: auto;
+    }
+    
+    .btn {
+        margin-bottom: 0.5rem;
+    }
+}
