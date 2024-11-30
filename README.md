@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# school_demo
-=======
+
 # School Management System
 
 A PHP-based school management system with student and class management capabilities, including image upload functionality.
